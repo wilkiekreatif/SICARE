@@ -1,0 +1,7 @@
+[30-Jul-2021 01:27:55 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/rsintanh/karir.rsintanhusada.com/admin/detailpelamar.php on line 9
+[30-Jul-2021 01:29:00 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/rsintanh/karir.rsintanhusada.com/admin/detailpelamar.php on line 204
+[30-Jul-2021 01:29:03 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/rsintanh/karir.rsintanhusada.com/admin/detailpelamar.php on line 204
+[30-Jul-2021 01:29:04 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/rsintanh/karir.rsintanhusada.com/admin/detailpelamar.php on line 204
+[30-Jul-2021 01:29:13 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/rsintanh/karir.rsintanhusada.com/admin/detailpelamar.php on line 204
+[30-Jul-2021 02:50:40 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/rsintanh/karir.rsintanhusada.com/admin/index.php on line 10
+[18-Aug-2021 08:27:53 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/rsintanh/karir.rsintanhusada.com/admin/index.php on line 10
